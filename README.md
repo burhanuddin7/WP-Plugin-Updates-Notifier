@@ -22,7 +22,9 @@ Implementation
 
 
 
-To include this file in settings option of WP dashboard add the following code in function.php
+# To include this file in settings option of WP dashboard add the following code in function.php
 
 require_once 'includes/admin/plugin-updates-notifier.php';
 
+<img width="1058" alt="Screenshot 2021-11-24 at 5 42 46 PM" src="https://user-images.githubusercontent.com/17512774/143236364-68bbbe8f-d3cf-4a8f-9591-1e4b8212cf25.png">
+<img width="1058" alt="Screenshot 2021-11-24 at 5 41 29 PM" src="https://user-images.githubusercontent.com/17512774/143236405-79beb8b6-c611-4e91-9df0-04a95d2c4515.png">
