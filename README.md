@@ -1,5 +1,11 @@
+
+# To include this file in settings option of WP dashboard add the following code in function.php
+
+require_once 'includes/admin/plugin-updates-notifier.php';
+
+
 # WP Plugin Update Notifier
- 
+
 Implementation
 
 - Created a submenu page in the settings options of the WP dashboard where in there are options given to enable/disable notification and turn off plugin update reminder.
@@ -20,11 +26,5 @@ Implementation
 
 - Below is the attached SS for how the alert message will be displayed on the mail:
 
+<img width="1058" alt="Screenshot 2021-11-24 at 5 42 46 PM" src="https://user-images.githubusercontent.com/17512774/143236364-68bbbe8f-d3cf-4a8f-9591-1e4b8212cf25.png"><img width="1058" alt="Screenshot 2021-11-24 at 5 45 35 PM" src="https://user-images.githubusercontent.com/17512774/143236757-67725618-cfc4-43ec-b783-9c14db43a407.png">
 
-
-# To include this file in settings option of WP dashboard add the following code in function.php
-
-require_once 'includes/admin/plugin-updates-notifier.php';
-
-<img width="1058" alt="Screenshot 2021-11-24 at 5 42 46 PM" src="https://user-images.githubusercontent.com/17512774/143236364-68bbbe8f-d3cf-4a8f-9591-1e4b8212cf25.png">
-<img width="1058" alt="Screenshot 2021-11-24 at 5 41 29 PM" src="https://user-images.githubusercontent.com/17512774/143236405-79beb8b6-c611-4e91-9df0-04a95d2c4515.png">
