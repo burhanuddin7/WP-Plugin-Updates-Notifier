@@ -24,7 +24,7 @@ Implementation
 
 - The Plugin Update notifier page in the settings option has the option to disable the alerts as well as add new slack channel name for alerts.
 
-- Below is the attached SS for how the alert message will be displayed on the mail:
+- Below is the attached SS for how the alert message will be displayed on the mail and slack:
 
 <img width="1058" alt="Screenshot 2021-11-24 at 5 42 46 PM" src="https://user-images.githubusercontent.com/17512774/143236364-68bbbe8f-d3cf-4a8f-9591-1e4b8212cf25.png"><img width="1058" alt="Screenshot 2021-11-24 at 5 45 35 PM" src="https://user-images.githubusercontent.com/17512774/143236757-67725618-cfc4-43ec-b783-9c14db43a407.png">
 
